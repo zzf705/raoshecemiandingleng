@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ShootingRay.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GridPowerResult.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="complex.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rayPath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rayManage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rayInit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="findGrid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="gridPower.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ChangeTypeTool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BuildingPoint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="firstReflectionNew.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="line.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="empiricalFormula.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="basestationShooting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="diffractionCalculate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="picture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ShootingRay.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GridPowerResult.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="complex.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rayPath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rayManage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="rayInit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="findGrid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="gridPower.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ChangeTypeTool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Building.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BuildingPoint.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="firstReflectionNew.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="empiricalFormula.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="basestationShooting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="diffractionCalculate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="picture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+</Project>
